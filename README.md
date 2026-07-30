@@ -16,4 +16,4 @@
     <a href="https://github.com/your-username/Mini-Project-HTML-Birthday-Invite/stargazers">
       <img src="https://img.shields.io/github/stars/your-username/Mini-Project-HTML-Birthday-Invite?style=for-the-badge&
 
-    <h1>Live Project</h1> https://abhinavpal101.github.io/Mini-Project-HTML-Birthday-Invite/
+   <h1>Live Project</h1> https://abhinavpal101.github.io/Mini-Project-HTML-Birthday-Invite/
